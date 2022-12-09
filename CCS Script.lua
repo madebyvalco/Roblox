@@ -21,8 +21,8 @@ local Window = Rayfield:CreateWindow({
 		Note = "Welcome!",
 		FileName = "Key",
 		SaveKey = false,
-		GrabKeyFromSite = true, -- If this is true, set Key below to the RAW site you would like Rayfield to get the key from
-		Key = "https://raw.githubusercontent.com/JustDevT/Roblox/main/Key"
+		GrabKeyFromSite = false, -- If this is true, set Key below to the RAW site you would like Rayfield to get the key from
+		Key = "FjojQa294jmUND8Sr"
 	}
 })
 
