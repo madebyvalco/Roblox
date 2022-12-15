@@ -18,11 +18,11 @@ local Window = Rayfield:CreateWindow({
 	KeySettings = {
 		Title = "DevHub",
 		Subtitle = "Key System",
-		Note = "Welcome!",
+		Note = "Join the discord for the key! (discord.gg/ftMc57WuGd)",
 		FileName = "Key",
 		SaveKey = false,
 		GrabKeyFromSite = false, -- If this is true, set Key below to the RAW site you would like Rayfield to get the key from
-		Key = "66d06jcqR0D8z1q8"
+		Key = "3R3AdsRoTonv32hY2"
 	}
 })
 
